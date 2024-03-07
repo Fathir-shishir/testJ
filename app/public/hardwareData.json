@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name": "Combustion Engine",
+        "type": "Engine",
+        "specs": {
+            "power": "150 HP",
+            "type": "V6",
+            "fuelType": "Petrol"
+        },
+        "manufacturer": "EngineMaker Co"
+    },
+    {
+        "id": 2,
+        "name": "Automatic Transmission",
+        "type": "Transmission",
+        "specs": {
+            "gears": 6,
+            "type": "Automatic"
+        },
+        "manufacturer": "GearBox Solutions"
+    },
+    {
+        "id": 3,
+        "name": "Steering Wheel",
+        "type": "Interior",
+        "specs": {
+            "diameter": "15 inches",
+            "material": "Leather"
+        },
+        "manufacturer": "Interior Crafts"
+    },
+    {
+        "id": 4,
+        "name": "Brake Pad",
+        "type": "Brakes",
+        "specs": {
+            "material": "Ceramic",
+            "compatibility": "Most sedans and SUVs"
+        },
+        "manufacturer": "BrakeRight Inc."
+    },
+    {
+        "id": 5,
+        "name": "LED Headlight",
+        "type": "Lighting",
+        "specs": {
+            "luminosity": "1100 lumens",
+            "color": "6000K Cool White"
+        },
+        "manufacturer": "BrightVision Lighting"
+    }
+    
+]
